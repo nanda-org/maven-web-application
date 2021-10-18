@@ -133,7 +133,7 @@
 				<configuration>
 					<scanIntervalSeconds>10</scanIntervalSeconds>
 					<webApp>
-						<contextPath>/maven-web-application</contextPath>
+						<contextPath>maven-web-application</contextPath>
 					</webApp>
 				</configuration>
 			</plugin>
@@ -148,6 +148,7 @@
 					<wtpversion>2.0</wtpversion>
 					<wtpContextName>maven-web-application</wtpContextName>
 				 </configuration>
+			
 			</plugin>
 			
 </plugins>
